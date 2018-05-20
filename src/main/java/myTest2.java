@@ -9,6 +9,6 @@
  */
 public class myTest2 {
     public static void main(String[] args) {
-        System.out.println("dev");
+        System.out.println("newdev");
     }
 }
