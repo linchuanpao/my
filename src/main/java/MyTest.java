@@ -5,10 +5,10 @@
 /**
  * @author linchuanpao
  * @time 2018/5/20  14:49
- * @desc
+ * @desc 1
  */
 public class MyTest {
     public static void main(String[] args) {
-        System.out.println("master");
+        System.out.println("dev");
     }
 }
